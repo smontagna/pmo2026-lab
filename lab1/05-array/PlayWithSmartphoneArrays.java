@@ -1,7 +1,3 @@
-package oop.lab02.arrays;
-
-import oop.lab02.constructors.Smartphone;
-
 public class PlayWithSmartphoneArrays {
 
     static int search(final Smartphone[] array, final String brand) {

@@ -2,7 +2,7 @@ class Student {
 
     // ... Aggiungere qui la definizione dei campi
 
-    void build(/* Aggiungere i parametri di input */) {
+   Student(/* Aggiungere i parametri di input */) {
         // ... Inizializzazione dei campi della classe
     }
 

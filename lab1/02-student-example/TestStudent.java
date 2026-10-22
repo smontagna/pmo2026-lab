@@ -2,10 +2,9 @@ class TestStudent {
   public static void main(String[] args) {
       Student student = new Student();
       /*
-       * aggiornare l'invocazione del metodo build con l'aggiunta dei
+       * aggiornare l'invocazione del costruttore con l'aggiunta dei
        * parametri
        */
-      student.build();
       student.printStudentInfo();
       /*
        * Creare dei nuovi oggetti relativi agli studenti:
